@@ -3946,7 +3946,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-hover-item .ft-1, .ft-hover-item .ft-2 {
-  background: #ccc url(http://placehold.it/900x580);
+  background: #ccc url(../../assets/images/tecnico_financiero.jpg);
   background-size: 100%;
   background-position: 50%;
   -webkit-transition: background-size 0.3s;
@@ -3966,7 +3966,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-hover-item .ft-2 {
-  background: #ccc url(http://placehold.it/900x580/999/eee);
+  background: #ccc url(../../assets/images/tecnico_inmobiliario.jpg);
   background-size: 100%;
   background-position: 50%;
 }
@@ -4197,7 +4197,7 @@ fieldset[disabled] .form-control:hover {
 /* ---- 10.1 Circle Counters ---- */
 .circles-counters, .circles-counters-dark-bg {
   position: relative;
-  background: #ccc url(http://placehold.it/2440x1578);
+  background: #ccc url(../../assets/images/hero/circular.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -10254,6 +10254,10 @@ img.main_logo {
 
 div.member {
   margin-bottom: 50px;
+}
+
+div.ws-us {
+  padding-bottom: 75px;
 }
 
 p.break {
