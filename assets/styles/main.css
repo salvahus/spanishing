@@ -3091,7 +3091,7 @@ fieldset[disabled] .form-control:hover {
 
 .navbar-fw .navbar-header {
   margin-left: 50px;
-  width: 25%;
+  width: auto;
 }
 
 .navbar-fw .navbar-right {
